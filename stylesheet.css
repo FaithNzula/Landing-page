@@ -5,7 +5,7 @@
  }
  .banner
  {
-     width: 1170px;
+     width: 1000px;
      margin:auto;
 
  }
@@ -16,4 +16,33 @@
      background-size: cover;
      background-position: center center;
      background-position: relative;
+ }
+ .navbar
+ {
+     float: right;
+     list-style: none;
+     margin-top: 20px;
+     padding-right: 10px;
+ }
+ .navbar li 
+ {
+     display: inline-block;
+
+ }
+ .navbar li a
+ {
+     color: white;
+     text-decoration: none;
+     padding: 5px 20px;
+     font-size: 16px;
+ }
+ .logo img
+ 
+ {
+     float: left;
+     width: 100px;
+    
+     position: absolute;
+     top: 0%;
+     left: 0%;
  }
