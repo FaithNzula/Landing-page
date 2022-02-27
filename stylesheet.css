@@ -33,8 +33,9 @@
  {
      color: white;
      text-decoration: none;
-     padding: 5px 20px;
+     padding: 10px 20px;
      font-size: 16px;
+     
  }
  .logo img
  
@@ -46,3 +47,23 @@
      top: 0%;
      left: 0%;
  }
+ .welcome
+{
+    position: absolute;
+    text-align: center;
+    margin:10% 40%;
+}
+.welcome h1 
+{
+    text-align: center;
+    color:  palevioletred;
+    text-transform: uppercase;
+    font-size:40px;
+}
+.welcome p
+{
+    color: #000;
+    font-size: 30px;
+    text-decoration: wavy;
+
+}
