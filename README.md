@@ -6,5 +6,5 @@ a simple landing page with navbar,backgroung image ,logo and css styling
 HTML
 CSS
 # how to open the project
-kindly click the link down below
-[]link{https://faithnzula.github.io/Landing-page/}
+kindly click the link 
+ [link]{https://faithnzula.github.io/Landing-page/}
