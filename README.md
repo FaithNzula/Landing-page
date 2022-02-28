@@ -6,5 +6,5 @@ a simple landing page with a nav bar, a logo ,a background image ,and css stylin
 HTML
 CSS
 # how to open the project
-kind click on the Link down below
+kindly click on the Link down below
 [link]{ https://faithnzula.github.io/Landing-page/ }
