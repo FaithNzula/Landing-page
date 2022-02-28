@@ -7,4 +7,4 @@ HTML
 CSS
 # how to open the project
 kindly click the link 
- [link]{https://faithnzula.github.io/Landing-page/}
+ [link](https://faithnzula.github.io/Landing-page/)
